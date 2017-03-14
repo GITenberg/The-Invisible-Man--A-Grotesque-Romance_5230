@@ -1,5 +1,8 @@
 _repo: The-Invisible-Man--A-Grotesque-Romance_5230
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -18,6 +21,8 @@ description: "The Invisible Man is a science fiction novella by H. G. Wells. Ori
   \ his attempt to reverse it.\nWhile its predecessors, The Time Machine and The Island\
   \ of Doctor Moreau, were written using first-person narrators, Wells adopts a third-person\
   \ objective point of view in The Invisible Man.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5230#The-Invisible-Man--A-Grotesque-Romance
 gutenberg_bookshelf: Movie Books
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
